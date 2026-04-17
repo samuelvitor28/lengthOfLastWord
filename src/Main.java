@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // teste
         System.out.println(lengthOfLastWord("teste teste"));
 
     }
@@ -18,7 +19,6 @@ public class Main {
                 }
             }
         }
-
         return length;
     }
 }
